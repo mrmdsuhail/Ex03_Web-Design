@@ -139,7 +139,7 @@
 </html
 ```
 ## OUTPUT
-![alt text](saveethalogo.png)
+![alt text](<Screenshot (22).png>)
 
 ## RESULT
  Slot time table is created successfully.
